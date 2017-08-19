@@ -1,0 +1,88 @@
+{
+ "poses": [
+  {
+   "id": "chair",
+   "english": "Chair",
+   "sanskrit": "Utkaṭāsana",
+   "translations": [
+    {
+     "translation": "utkaṭa = fierce"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "chair.png"
+  },
+  {
+   "id": "downward_dog",
+   "english": "Downward-Facing Dog",
+   "sanskrit": "Adho Mukha Śvānāsana",
+   "translations": [
+    {
+     "translation": "adho = downward"
+    },
+    {
+     "translation": "mukha = facing"
+    },
+    {
+     "translation": "śvāna = dog"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "downward_dog.png"
+  },
+  {
+   "id": "upward_dog",
+   "english": "Upward-Facing Dog",
+   "sanskrit": "Ūrdhva Mukha Śvānāsana",
+   "translations": [
+    {
+     "translation": "ūrdhva = upward"
+    },
+    {
+     "translation": "mukha = facing"
+    },
+    {
+     "translation": "śvāna = dog"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "upward_dog.png"
+  },
+ ]
+}

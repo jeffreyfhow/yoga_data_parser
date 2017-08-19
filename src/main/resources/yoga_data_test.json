@@ -1,0 +1,384 @@
+{
+ "poses": [
+   {
+     "id": "boat_full",
+     "english": "Boat",
+     "sanskrit": "Nāvāsana",
+     "translations": [
+       {
+         "translation": "nāva = boat"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Seated / Balancing"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Intermediate"
+       }
+     ],
+     "img_src": "boat_full.png"
+   },
+   {
+     "id": "boat_half",
+     "english": "Half Boat",
+     "sanskrit": "Ardha Nāvāsana",
+     "translations": [
+       {
+         "translation": "ardha = half"
+       },
+       {
+         "translation": "nāva = boat"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Seated / Balancing"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Beginner"
+       }
+     ],
+     "img_src": "boat_half.png"
+   },
+   {
+     "id": "bound_angle",
+     "english": "Bound Angle",
+     "sanskrit": "Baddha Koṇāsana",
+     "translations": [
+       {
+         "translation": "baddha = bound"
+       },
+       {
+         "translation": "koṇa = angle"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Alt. Name:",
+         "value": "Butterfly / Cobbler's"
+       },
+       {
+         "label": "Category:",
+         "value": "Seated / Neutral"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Beginner"
+       }
+     ],
+     "img_src": "bound_angle.png"
+   },
+   {
+     "id": "child",
+     "english": "Extended Child's",
+     "sanskrit": "Utthita Balāsana",
+     "translations": [
+       {
+         "translation": "utthita = extended"
+       },
+       {
+         "translation": "bala = child"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Prone / Forward Bend"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Beginner"
+       }
+     ],
+     "img_src": "child.png"
+   },
+   {
+     "id": "crow",
+     "english": "Crow",
+     "sanskrit": "Bakāsana",
+     "translations": [
+       {
+         "translation": "baka = crane"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Alt. Name:",
+         "value": "Crane"
+       },
+       {
+         "label": "Category:",
+         "value": "Arm Balance and Inversion / Balancing"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Intermediate"
+       }
+     ],
+     "img_src": "crow.png"
+   },
+   {
+     "id": "downward_dog",
+     "english": "Downward-Facing Dog",
+     "sanskrit": "Adho Mukha Śvānāsana",
+     "translations": [
+       {
+         "translation": "adho = downward"
+       },
+       {
+         "translation": "mukha = facing"
+       },
+       {
+         "translation": "śvāna = dog"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Arm and Leg Support / Forward Bend"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Beginner"
+       }
+     ],
+     "img_src": "downward_dog.png"
+   },
+   {
+     "id": "half_moon",
+     "english": "Half Moon",
+     "sanskrit": "Ardha Chandrāsana",
+     "translations": [
+       {
+         "translation": "ardha = half"
+       },
+       {
+         "translation": "chandra = moon"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Standing / Balancing"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Intermediate"
+       }
+     ],
+     "img_src": "half_moon_R.png"
+   },
+   {
+     "id": "hero",
+     "english": "Hero",
+     "sanskrit": "Vīrāsana",
+     "translations": [
+       {
+         "translation": "vīra = hero"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Seated / Backbend"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Beginner"
+       }
+     ],
+     "img_src": "hero.png"
+   },
+   {
+     "id": "pyramid",
+     "english": "Pyramid",
+     "sanskrit": "Pārśvottānāsana",
+     "translations": [
+       {
+         "translation": "pārśva = side"
+       },
+       {
+         "translation": "uttāna = stretch out"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Arm and Leg Support / Forward Bend"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Intermediate"
+       }
+     ],
+     "img_src": "pyramid_R.png"
+   },
+   {
+     "id": "warrior_II_forward_arm_forward",
+     "english": "Extended Side Angle",
+     "sanskrit": "Utthita Pārśvakoṇāsana",
+     "translations": [
+       {
+         "translation": "utthita = extended"
+       },
+       {
+         "translation": "pārśva = side"
+       },
+       {
+         "translation": "koṇa = angle"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Standing / Lateral Bend"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Intermediate"
+       }
+     ],
+     "img_src": "warrior_II_forward_arm_forward_R.png"
+   },
+   {
+     "id": "staff",
+     "english": "Staff",
+     "sanskrit": "Daṇḍāsana",
+     "translations": [
+       {
+         "translation": "daṇḍa = staff"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Seated / Neutral"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Beginner"
+       }
+     ],
+     "img_src": "staff.png"
+   },
+   {
+     "id": "upward_dog",
+     "english": "Upward-Facing Dog",
+     "sanskrit": "Ūrdhva Mukha Śvānāsana",
+     "translations": [
+       {
+         "translation": "ūrdhva = upward"
+       },
+       {
+         "translation": "mukha = facing"
+       },
+       {
+         "translation": "śvāna = dog"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Arm and Leg Support / Backbend"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Intermediate"
+       }
+     ],
+     "img_src": "upward_dog.png"
+   },
+   {
+     "id": "warrior_I",
+     "english": "Warrior I",
+     "sanskrit": "Vīrabhadrāsana I",
+     "translations": [
+       {
+         "translation": "vīrabhadra = warrior"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Standing / Balancing"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Beginner"
+       }
+     ],
+     "img_src": "warrior_I_R.png"
+   },
+   {
+     "id": "sphinx",
+     "english": "Sphinx",
+     "sanskrit": "Sālamba Bhujaṅgāsana",
+     "translations": [
+       {
+         "translation": "sālamba = supported"
+       },
+       {
+         "translation": "bhujaṅga = serpent"
+       },
+       {
+         "translation": "āsana = posture"
+       }
+     ],
+     "details": [
+       {
+         "label": "Category:",
+         "value": "Prone / Backbend"
+       },
+       {
+         "label": "Difficulty:",
+         "value": "Beginner"
+       }
+     ],
+     "img_src": "sphinx.png"
+   }
+ ]
+}

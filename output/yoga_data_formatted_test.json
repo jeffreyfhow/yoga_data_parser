@@ -1,0 +1,186 @@
+[
+{
+  "id": "boat_full",
+  "english": "Boat",
+  "sanskrit": "Nāvāsana",
+  "translations": [
+    "nāva = boat",
+    "āsana = posture"
+  ],
+  "difficulty": "Intermediate",
+  "position": "Seated",
+  "classification": "Balancing",
+  "img_file": "boat_full.png",
+  "grade": "A"
+},
+{
+  "id": "boat_half",
+  "english": "Half Boat",
+  "sanskrit": "Ardha Nāvāsana",
+  "translations": [
+    "ardha = half",
+    "nāva = boat",
+    "āsana = posture"
+  ],
+  "difficulty": "Beginner",
+  "position": "Seated",
+  "classification": "Balancing",
+  "img_file": "boat_half.png",
+  "grade": "A"
+},
+{
+  "id": "bound_angle",
+  "english": "Bound Angle",
+  "sanskrit": "Baddha Koṇāsana",
+  "alt_names": [
+    "Butterfly",
+    "Cobbler's"
+  ],
+  "translations": [
+    "baddha = bound",
+    "koṇa = angle",
+    "āsana = posture"
+  ],
+  "difficulty": "Beginner",
+  "position": "Seated",
+  "classification": "Neutral",
+  "img_file": "bound_angle.png",
+  "grade": "A"
+},
+{
+  "id": "child",
+  "english": "Extended Child's",
+  "sanskrit": "Utthita Balāsana",
+  "translations": [
+    "utthita = extended",
+    "bala = child",
+    "āsana = posture"
+  ],
+  "difficulty": "Beginner",
+  "position": "Prone",
+  "classification": "Forward Bend",
+  "img_file": "child.png",
+  "grade": "A"
+},
+{
+  "id": "crow",
+  "english": "Crow",
+  "sanskrit": "Bakāsana",
+  "alt_names": [
+    "Crane"
+  ],
+  "translations": [
+    "baka = crane",
+    "āsana = posture"
+  ],
+  "difficulty": "Intermediate",
+  "position": "Arm Balance and Inversion",
+  "classification": "Balancing",
+  "img_file": "crow.png",
+  "grade": "A"
+},
+{
+  "id": "downward_dog",
+  "english": "Downward-Facing Dog",
+  "sanskrit": "Adho Mukha Śvānāsana",
+  "translations": [
+    "adho = downward",
+    "mukha = facing",
+    "śvāna = dog",
+    "āsana = posture"
+  ],
+  "difficulty": "Beginner",
+  "position": "Arm and Leg Support",
+  "classification": "Forward Bend",
+  "img_file": "downward_dog.png",
+  "grade": "A"
+},
+{
+  "id": "half_moon",
+  "english": "Half Moon",
+  "sanskrit": "Ardha Chandrāsana",
+  "translations": [
+    "ardha = half",
+    "chandra = moon",
+    "āsana = posture"
+  ],
+  "difficulty": "Intermediate",
+  "position": "Standing",
+  "classification": "Balancing",
+  "img_file": "half_moon_r.png",
+  "grade": "A"
+},
+{
+  "id": "hero",
+  "english": "Hero",
+  "sanskrit": "Vīrāsana",
+  "translations": [
+    "vīra = hero",
+    "āsana = posture"
+  ],
+  "difficulty": "Beginner",
+  "position": "Seated",
+  "classification": "Backbend",
+  "img_file": "hero.png",
+  "grade": "A"
+},
+{
+  "id": "pyramid",
+  "english": "Pyramid",
+  "sanskrit": "Pārśvottānāsana",
+  "translations": [
+    "pārśva = side",
+    "uttāna = stretch out",
+    "āsana = posture"
+  ],
+  "difficulty": "Intermediate",
+  "position": "Arm and Leg Support",
+  "classification": "Forward Bend",
+  "img_file": "pyramid_r.png",
+  "grade": "A"
+},
+{
+  "id": "staff",
+  "english": "Staff",
+  "sanskrit": "Daṇḍāsana",
+  "translations": [
+    "daṇḍa = staff",
+    "āsana = posture"
+  ],
+  "difficulty": "Beginner",
+  "position": "Seated",
+  "classification": "Neutral",
+  "img_file": "staff.png",
+  "grade": "A"
+},
+{
+  "id": "upward_dog",
+  "english": "Upward-Facing Dog",
+  "sanskrit": "Ūrdhva Mukha Śvānāsana",
+  "translations": [
+    "ūrdhva = upward",
+    "mukha = facing",
+    "śvāna = dog",
+    "āsana = posture"
+  ],
+  "difficulty": "Intermediate",
+  "position": "Arm and Leg Support",
+  "classification": "Backbend",
+  "img_file": "upward_dog.png",
+  "grade": "A"
+},
+{
+  "id": "warrior_I",
+  "english": "Warrior I",
+  "sanskrit": "Vīrabhadrāsana I",
+  "translations": [
+    "vīrabhadra = warrior",
+    "āsana = posture"
+  ],
+  "difficulty": "Beginner",
+  "position": "Standing",
+  "classification": "Balancing",
+  "img_file": "warrior_i_r.png",
+  "grade": "A"
+}
+]

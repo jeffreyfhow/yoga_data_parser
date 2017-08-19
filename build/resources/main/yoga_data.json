@@ -1,0 +1,4646 @@
+{
+ "poses": [
+  {
+   "id": "awkward",
+   "english": "Awkward",
+   "sanskrit": "Utkaṭāsana",
+   "translations": [
+    {
+     "translation": "utkaṭa = fierce"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "awkward.png"
+  },
+  {
+   "id": "cat_balance",
+   "english": "Balancing the Cat",
+   "sanskrit": "Utthita Cakravākāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "cakravāka = ruddy goose"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "cat_balance_R.png"
+  },
+  {
+   "id": "chair_twist_bind_up",
+   "english": "Bird of Paradise",
+   "sanskrit": "Svarga Dvijāsana",
+   "translations": [
+    {
+     "translation": "svarga = heaven"
+    },
+    {
+     "translation": "dvija = twice born"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "chair_twist_bind_up_R.png"
+  },
+  {
+   "id": "bird_of_paradise_revolved",
+   "english": "Revolved Bird of Paradise",
+   "sanskrit": "Parivṛtta Svarga Dvijāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "svarga = heaven"
+    },
+    {
+     "translation": "dvija = twice born"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "bird_of_paradise_revolved_L.png"
+  },
+  {
+   "id": "bird_of_paradise_revolved_preparation",
+   "english": "Revolved Bird of Paradise (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "bird_of_paradise_revolved_preparation_L.png"
+  },
+  {
+   "id": "boat_full",
+   "english": "Boat",
+   "sanskrit": "Nāvāsana",
+   "translations": [
+    {
+     "translation": "nāva = boat"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "boat_full.png"
+  },
+  {
+   "id": "boat_half",
+   "english": "Half Boat",
+   "sanskrit": "Ardha Nāvāsana",
+   "translations": [
+    {
+     "translation": "ardha = half"
+    },
+    {
+     "translation": "nāva = boat"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "boat_half.png"
+  },
+  {
+   "id": "bound_angle",
+   "english": "Bound Angle",
+   "sanskrit": "Baddha Koṇāsana",
+   "translations": [
+    {
+     "translation": "baddha = bound"
+    },
+    {
+     "translation": "koṇa = angle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Butterfly / Cobbler's"
+    },
+    {
+     "label": "Category:",
+     "value": "Seated / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "bound_angle.png"
+  },
+  {
+   "id": "supine_bound_angle",
+   "english": "Supine Bound Angle",
+   "sanskrit": "Supta Baddha Koṇāsana",
+   "translations": [
+    {
+     "translation": "supta = supine"
+    },
+    {
+     "translation": "baddha = bound"
+    },
+    {
+     "translation": "koṇa = angle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "supine_bound_angle.png"
+  },
+  {
+   "id": "bow",
+   "english": "Bow",
+   "sanskrit": "Dhanurāsana",
+   "translations": [
+    {
+     "translation": "dhanur = bow"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "bow.png"
+  },
+  {
+   "id": "bow_preparation",
+   "english": "Bow (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "bow_preparation.png"
+  },
+  {
+   "id": "bow_half",
+   "english": "Half Bow",
+   "sanskrit": "Ardha Dhanurāsana",
+   "translations": [
+    {
+     "translation": "ardha = half"
+    },
+    {
+     "translation": "dhanu = bow"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "bow_half_R.png"
+  },
+  {
+   "id": "box_neutral",
+   "english": "Box",
+   "sanskrit": "Cakravākāsana",
+   "translations": [
+    {
+     "translation": "cakravāka = ruddy goose"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Table Top"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "box_neutral.png"
+  },
+  {
+   "id": "downward_dog_knee_to_forehead_kneeling",
+   "english": "Box with Knee to Forehead",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "downward_dog_knee_to_forehead_kneeling_R.png"
+  },
+  {
+   "id": "box_hand_to_ankle",
+   "english": "Box with Shoulder Stretch",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "box_hand_to_ankle_R.png"
+  },
+  {
+   "id": "downward_dog_leg_up_kneeling",
+   "english": "One Legged Box",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "downward_dog_leg_up_kneeling_R.png"
+  },
+  {
+   "id": "bridge",
+   "english": "Bridge",
+   "sanskrit": "Setu Bandha Sarvāṅgāsana",
+   "translations": [
+    {
+     "translation": "setu = bridge"
+    },
+    {
+     "translation": "bandha = lock"
+    },
+    {
+     "translation": "sarva = all"
+    },
+    {
+     "translation": "āṅga = limb"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "bridge.png"
+  },
+  {
+   "id": "bridge_leg_up",
+   "english": "One Legged Bridge",
+   "sanskrit": "Eka Pāda Setu Bandha Sarvāṅgāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "setu = bridge"
+    },
+    {
+     "translation": "bandha = lock"
+    },
+    {
+     "translation": "sarva = all"
+    },
+    {
+     "translation": "āṅga = limb"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "bridge_leg_up_R.png"
+  },
+  {
+   "id": "camel",
+   "english": "Camel",
+   "sanskrit": "Uṣṭrāsana",
+   "translations": [
+    {
+     "translation": "uṣṭra = camel"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "camel.png"
+  },
+  {
+   "id": "cat",
+   "english": "Cat",
+   "sanskrit": "Marjaryāsana",
+   "translations": [
+    {
+     "translation": "marjarya = cat"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "cat.png"
+  },
+  {
+   "id": "caterpillar",
+   "english": "Caterpillar",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "caterpillar.png"
+  },
+  {
+   "id": "chair",
+   "english": "Chair",
+   "sanskrit": "Utkaṭāsana",
+   "translations": [
+    {
+     "translation": "utkaṭa = fierce"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "chair.png"
+  },
+  {
+   "id": "chair_prayer",
+   "english": "Chair with Prayer Hands",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "chair_prayer.png"
+  },
+  {
+   "id": "chair_twist",
+   "english": "Revolved Chair",
+   "sanskrit": "Parivṛtta Utkaṭāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "utkaṭa = fierce"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "chair_twist_R.png"
+  },
+  {
+   "id": "chair_twist_extended",
+   "english": "Revolved Chair with Extended Arms",
+   "sanskrit": "Utthita Parivṛtta Utkaṭāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "utkaṭa = fierce"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "chair_twist_extended_R.png"
+  },
+  {
+   "id": "chair_twist_bind",
+   "english": "Bound Revolved Chair",
+   "sanskrit": "Parivṛtta Baddha Utkaṭāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "baddha = bound"
+    },
+    {
+     "translation": "utkaṭa = fierce"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "chair_twist_bind_R.png"
+  },
+  {
+   "id": "child_traditional",
+   "english": "Child's",
+   "sanskrit": "Balāsana",
+   "translations": [
+    {
+     "translation": "bala = child"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "child_traditional.png"
+  },
+  {
+   "id": "child",
+   "english": "Extended Child's",
+   "sanskrit": "Utthita Balāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "bala = child"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "child.png"
+  },
+  {
+   "id": "child_wide",
+   "english": "Wide Child's",
+   "sanskrit": "Balāsana",
+   "translations": [
+    {
+     "translation": "bala = child"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "child_wide.png"
+  },
+  {
+   "id": "child_wide_side_lean",
+   "english": "Wide Child's with Side Stretch",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "child_wide_side_lean_R.png"
+  },
+  {
+   "id": "cobra",
+   "english": "Cobra",
+   "sanskrit": "Bhujaṅgāsana",
+   "translations": [
+    {
+     "translation": "bhujaṅga = serpent"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "cobra.png"
+  },
+  {
+   "id": "corpse",
+   "english": "Corpse",
+   "sanskrit": "Śavāsana",
+   "translations": [
+    {
+     "translation": "śava = corpse"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "corpse.png"
+  },
+  {
+   "id": "corpse_front",
+   "english": "Front Corpse",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "corpse_front.png"
+  },
+  {
+   "id": "dog",
+   "english": "Cow",
+   "sanskrit": "Bitilāsana",
+   "translations": [
+    {
+     "translation": "bitil = cow"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Dog"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "dog.png"
+  },
+  {
+   "id": "knee_pile_bind",
+   "english": "Cow Face",
+   "sanskrit": "Gomukhāsana",
+   "translations": [
+    {
+     "translation": "go = cow"
+    },
+    {
+     "translation": "mukha = face"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "knee_pile_bind_R.png"
+  },
+  {
+   "id": "knee_pile",
+   "english": "Cow Face (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "knee_pile_R.png"
+  },
+  {
+   "id": "lunge_crescent",
+   "english": "Crescent Lunge",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_crescent_R.png"
+  },
+  {
+   "id": "lunge_prayer",
+   "english": "Crescent Lunge with Prayer Hands",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_prayer_R.png"
+  },
+  {
+   "id": "lunge_crescent_forward_bend",
+   "english": "Crescent Lunge Forward Bend",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_crescent_forward_bend_R.png"
+  },
+  {
+   "id": "lunge_twist",
+   "english": "Revolved Crescent Lunge",
+   "sanskrit": "Parivṛtta Aṅjaneyāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "aṅjaneya = praise"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_twist_R.png"
+  },
+  {
+   "id": "lunge_twist_extended",
+   "english": "Revolved Crescent Lunge with Extended Arms",
+   "sanskrit": "Utthita Parivṛtta Aṅjaneyāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "aṅjaneya = praise"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_twist_extended_R.png"
+  },
+  {
+   "id": "lunge_twist_extended_bound",
+   "english": "Bound Revolved Crescent Lunge",
+   "sanskrit": "Parivṛtta Baddha Aṅjaneyāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "baddha = bound"
+    },
+    {
+     "translation": "aṅjaneya = praise"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_twist_extended_bound_R.png"
+  },
+  {
+   "id": "lunge_crescent_twist",
+   "english": "Crescent Lunge Twist",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_crescent_twist_R.png"
+  },
+  {
+   "id": "lunge_crescent_twist_reverse",
+   "english": "Reverse Crescent Lunge Twist",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_crescent_twist_reverse_R.png"
+  },
+  {
+   "id": "warrior_I_kneeling",
+   "english": "Crescent Lunge on the Knee",
+   "sanskrit": "Aṅjaneyāsana",
+   "translations": [
+    {
+     "translation": "aṅjaneya = praise"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "warrior_I_kneeling_R.png"
+  },
+  {
+   "id": "lunge_kneeling_prayer",
+   "english": "Crescent Lunge on the Knee with Prayer Hands",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_kneeling_prayer_R.png"
+  },
+  {
+   "id": "lunge_crescent_kneeling_forward_bend",
+   "english": "Crescent Lunge Forward Bend on the Knee",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_crescent_kneeling_forward_bend_R.png"
+  },
+  {
+   "id": "lunge_kneeling_twist",
+   "english": "Revolved Crescent Lunge on the Knee",
+   "sanskrit": "Parivṛtta Aṅjaneyāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "aṅjaneya = praise"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_kneeling_twist_R.png"
+  },
+  {
+   "id": "lunge_kneeling_twist_extended",
+   "english": "Revolved Crescent Lunge on the Knee with Extended Arms",
+   "sanskrit": "Utthita Parivṛtta Aṅjaneyāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "aṅjaneya = praise"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_kneeling_twist_extended_R.png"
+  },
+  {
+   "id": "lunge_kneeling_twist_extended_bound",
+   "english": "Bound Revolved Crescent Lunge on the Knee",
+   "sanskrit": "Parivṛtta Baddha Aṅjaneyāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "baddha = bound"
+    },
+    {
+     "translation": "aṅjaneya = praise"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_kneeling_twist_extended_bound_R.png"
+  },
+  {
+   "id": "lunge_crescent_kneeling_twist",
+   "english": "Crescent Lunge Twist on the Knee",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_crescent_kneeling_twist_R.png"
+  },
+  {
+   "id": "lunge_crescent_kneeling_twist_reverse",
+   "english": "Reverse Crescent Lunge Twist on the Knee",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_crescent_kneeling_twist_reverse_R.png"
+  },
+  {
+   "id": "crescent_moon",
+   "english": "Crescent Moon",
+   "sanskrit": "Ashta Chandrāsana",
+   "translations": [
+    {
+     "translation": "ashta = side"
+    },
+    {
+     "translation": "chandra = moon"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Lateral Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "crescent_moon_R.png"
+  },
+  {
+   "id": "crow",
+   "english": "Crow",
+   "sanskrit": "Bakāsana",
+   "translations": [
+    {
+     "translation": "baka = crane"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Crane"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "crow.png"
+  },
+  {
+   "id": "seated_on_heels_hands_on_mat_opened_knees",
+   "english": "Crow (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "seated_on_heels_hands_on_mat_opened_knees.png"
+  },
+  {
+   "id": "crow_flying",
+   "english": "One Legged Crow",
+   "sanskrit": "Eka Pāda Bakāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "baka = crane"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "One Legged Crane / Flying Crow"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "crow_flying_L.png"
+  },
+  {
+   "id": "crow_side",
+   "english": "Side Crow",
+   "sanskrit": "Pārśva Bakāsana",
+   "translations": [
+    {
+     "translation": "pārśva = side"
+    },
+    {
+     "translation": "baka = crane"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Side Crane"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "crow_side_L.png"
+  },
+  {
+   "id": "crow_side_preparation",
+   "english": "Side Crow (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "crow_side_preparation_L.png"
+  },
+  {
+   "id": "deaf_man",
+   "english": "Deaf Man's",
+   "sanskrit": "Karṇapīḍāsana",
+   "translations": [
+    {
+     "translation": "karṇa = ear"
+    },
+    {
+     "translation": "pīḍa = pressure"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Ear Pressure"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "deaf_man.png"
+  },
+  {
+   "id": "dolphin",
+   "english": "Dolphin",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "dolphin.png"
+  },
+  {
+   "id": "dolphin_leg_up",
+   "english": "One Legged Dolphin",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "dolphin_leg_up_R.png"
+  },
+  {
+   "id": "plank_dolphin",
+   "english": "Dolphin Plank",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "plank_dolphin.png"
+  },
+  {
+   "id": "plank_dolphin_side",
+   "english": "Side Dolphin Plank",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "plank_dolphin_side_L.png"
+  },
+  {
+   "id": "downward_dog",
+   "english": "Downward-Facing Dog",
+   "sanskrit": "Adho Mukha Śvānāsana",
+   "translations": [
+    {
+     "translation": "adho = downward"
+    },
+    {
+     "translation": "mukha = facing"
+    },
+    {
+     "translation": "śvāna = dog"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "downward_dog.png"
+  },
+  {
+   "id": "downward_dog_bent_knees",
+   "english": "Downward-Facing Dog with Bent Knees",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "downward_dog_bent_knees.png"
+  },
+  {
+   "id": "downward_dog_hamstring",
+   "english": "Downward-Facing Dog with Hamstring Stretch",
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Walk the Dog"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "downward_dog_hamstring_R.png"
+  },
+  {
+   "id": "downward_dog_knee_to_forehead",
+   "english": "Downward-Facing Dog with Knee to Forehead",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "downward_dog_knee_to_forehead_R.png"
+  },
+  {
+   "id": "downward_dog_leg_up_stack_hips",
+   "english": "Downward-Facing Dog with Stacked Hips",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "downward_dog_leg_up_stack_hips_R.png"
+  },
+  {
+   "id": "downward_dog_on_toes",
+   "english": "Downward-Facing Dog with Toe Raises",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "downward_dog_on_toes.png"
+  },
+  {
+   "id": "downward_dog_leg_up",
+   "english": "One Legged Downward-Facing Dog",
+   "sanskrit": "Eka Pāda Adho Mukha Śvānāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "adho = downward"
+    },
+    {
+     "translation": "mukha = facing"
+    },
+    {
+     "translation": "śvāna = dog"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Three Legged Downward-Facing Dog"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "downward_dog_leg_up_R.png"
+  },
+  {
+   "id": "downward_dog_hand_to_ankle",
+   "english": "Revolved Downward-Facing Dog",
+   "sanskrit": "Parivṛtta Adho Mukha Śvānāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "adho = downward"
+    },
+    {
+     "translation": "mukha = facing"
+    },
+    {
+     "translation": "śvāna = dog"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "downward_dog_hand_to_ankle_R.png"
+  },
+  {
+   "id": "eagle",
+   "english": "Eagle",
+   "sanskrit": "Garuḍāsana",
+   "translations": [
+    {
+     "translation": "garuḍa = eagle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "eagle_L.png"
+  },
+  {
+   "id": "easy",
+   "english": "Easy",
+   "sanskrit": "Sukhāsana",
+   "translations": [
+    {
+     "translation": "sukha = pleasure"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "easy.png"
+  },
+  {
+   "id": "eight_angle",
+   "english": "Eight Angle",
+   "sanskrit": "Aṣṭāvakrāsana",
+   "translations": [
+    {
+     "translation": "aṣṭā = eight"
+    },
+    {
+     "translation": "vakra = bent, curved"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "eight_angle_L.png"
+  },
+  {
+   "id": "puppy_extended",
+   "english": "Extended Puppy",
+   "sanskrit": "Uttāna Shishosana",
+   "translations": [
+    {
+     "translation": "uttāna = stretch out"
+    },
+    {
+     "translation": "shisho = puppy"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Melting Heart"
+    },
+    {
+     "label": "Category:",
+     "value": "Prone / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "puppy_extended.png"
+  },
+  {
+   "id": "fire_log",
+   "english": "Fire Log",
+   "sanskrit": "Agnistambhāsana",
+   "translations": [
+    {
+     "translation": "agni = fire"
+    },
+    {
+     "translation": "stambha = statue"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Double Pigeon"
+    },
+    {
+     "label": "Category:",
+     "value": "Seated / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "fire_log_R.png"
+  },
+  {
+   "id": "firefly",
+   "english": "Firefly",
+   "sanskrit": "Tittibhāsana",
+   "translations": [
+    {
+     "translation": "tittibha = firefly"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "firefly.png"
+  },
+  {
+   "id": "fish",
+   "english": "Fish",
+   "sanskrit": "Matsyāsana",
+   "translations": [
+    {
+     "translation": "matsya = fish"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "fish.png"
+  },
+  {
+   "id": "lunge_hands_on_mat_flying",
+   "english": "Flying Man",
+   "sanskrit": "Eka Pāda Kouṇḍinyāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "kouṇḍinya = name of a sage"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "lunge_hands_on_mat_flying_L.png"
+  },
+  {
+   "id": "flying_man_revolved",
+   "english": "Revolved Flying Man",
+   "sanskrit": "Parivṛtta Eka Pāda Kouṇḍinyāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "kouṇḍinya = name of a sage"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "flying_man_revolved_L.png"
+  },
+  {
+   "id": "seated_forward_bend",
+   "english": "Seated Forward Bend",
+   "sanskrit": "Paśchimottānāsana",
+   "translations": [
+    {
+     "translation": "paśchima = back"
+    },
+    {
+     "translation": "uttāna = stretch out"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "seated_forward_bend.png"
+  },
+  {
+   "id": "seated_forward_bend_preparation",
+   "english": "Seated Forward Bend (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "seated_forward_bend_preparation.png"
+  },
+  {
+   "id": "forward_bend",
+   "english": "Standing Forward Bend",
+   "sanskrit": "Uttānāsana",
+   "translations": [
+    {
+     "translation": "uttāna = stretch out"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "forward_bend.png"
+  },
+  {
+   "id": "forward_bend_deep",
+   "english": "Standing Forward Bend with Shoulder Opener",
+   "sanskrit": "Uttānāsana",
+   "translations": [
+    {
+     "translation": "uttāna = stretch out"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "forward_bend_deep.png"
+  },
+  {
+   "id": "frog",
+   "english": "Frog",
+   "sanskrit": "Bhekāsana",
+   "translations": [
+    {
+     "translation": "bheka = frog"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "frog.png"
+  },
+  {
+   "id": "garland",
+   "english": "Garland",
+   "sanskrit": "Mālāsana",
+   "translations": [
+    {
+     "translation": "mālā = garland or necklace"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "garland.png"
+  },
+  {
+   "id": "gorilla",
+   "english": "Gorilla",
+   "sanskrit": "Pādahastāsana",
+   "translations": [
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "hasta = hand"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Hand to Foot / Hand Under Foot"
+    },
+    {
+     "label": "Category:",
+     "value": "Standing / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "gorilla.png"
+  },
+  {
+   "id": "half_moon",
+   "english": "Half Moon",
+   "sanskrit": "Ardha Chandrāsana",
+   "translations": [
+    {
+     "translation": "ardha = half"
+    },
+    {
+     "translation": "chandra = moon"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "half_moon_R.png"
+  },
+  {
+   "id": "half_moon_bound",
+   "english": "Bound Half Moon",
+   "sanskrit": "Baddha Ardha Chandrāsana",
+   "translations": [
+    {
+     "translation": "baddha = bound"
+    },
+    {
+     "translation": "ardha = half"
+    },
+    {
+     "translation": "chandra = moon"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Sugarcane"
+    },
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "half_moon_bound_R.png"
+  },
+  {
+   "id": "half_moon_revolved",
+   "english": "Revolved Half Moon",
+   "sanskrit": "Parivṛtta Ardha Chandrāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "ardha = half"
+    },
+    {
+     "translation": "candra = moon"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "half_moon_revolved_R.png"
+  },
+  {
+   "id": "forward_bend_half_way",
+   "english": "Halfway Lift",
+   "sanskrit": "Ardha Uttānāsana",
+   "translations": [
+    {
+     "translation": "ardha = half"
+    },
+    {
+     "translation": "uttāna = stretch out"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "forward_bend_half_way.png"
+  },
+  {
+   "id": "standing_hand_to_toe",
+   "english": "Standing Hand to Toe",
+   "sanskrit": "Hasta Pādāṅguṣṭhāsana",
+   "translations": [
+    {
+     "translation": "hasta = hand"
+    },
+    {
+     "translation": "pādāṅguṣṭha = big toe"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "standing_hand_to_toe_R.png"
+  },
+  {
+   "id": "standing_hand_to_toe_extended",
+   "english": "Extended Standing Hand to Toe",
+   "sanskrit": "Utthita Hasta Pādāṅguṣṭhāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "hasta = hand"
+    },
+    {
+     "translation": "pādāṅguṣṭha = big toe"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "standing_hand_to_toe_extended_R.png"
+  },
+  {
+   "id": "supine_hand_to_toe",
+   "english": "Supine Hand to Toe",
+   "sanskrit": "Supta Hasta Pādāṅguṣṭhāsana",
+   "translations": [
+    {
+     "translation": "supta = supine"
+    },
+    {
+     "translation": "hasta = hand"
+    },
+    {
+     "translation": "pādāṅguṣṭha = big toe"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "supine_hand_to_toe_R.png"
+  },
+  {
+   "id": "supine_hand_to_toe_extended",
+   "english": "Extended Supine Hand to Toe",
+   "sanskrit": "Utthita Supta Hasta Pādāṅguṣṭhāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "supta = supine"
+    },
+    {
+     "translation": "hasta = hand"
+    },
+    {
+     "translation": "pādāṅguṣṭha = big toe"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "supine_hand_to_toe_extended_R.png"
+  },
+  {
+   "id": "handstand",
+   "english": "Handstand",
+   "sanskrit": "Adho Mukha Vṛkṣāsana",
+   "translations": [
+    {
+     "translation": "adho = downward"
+    },
+    {
+     "translation": "mukha = facing"
+    },
+    {
+     "translation": "vṛkṣa = tree"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Downward-Facing Tree"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "handstand.png"
+  },
+  {
+   "id": "handstand_splits",
+   "english": "Handstand with Splits",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "handstand_splits.png"
+  },
+  {
+   "id": "blissful_baby",
+   "english": "Happy Baby",
+   "sanskrit": "Ānanda Bālāsana",
+   "translations": [
+    {
+     "translation": "ānanda = happy"
+    },
+    {
+     "translation": "bāla = child"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Blissful Baby / Dead Bug"
+    },
+    {
+     "label": "Category:",
+     "value": "Supine / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "blissful_baby.png"
+  },
+  {
+   "id": "standing_head_to_knee",
+   "english": "Standing Head to Knee",
+   "sanskrit": "Daṇḍayamana Jānushīrāsana",
+   "translations": [
+    {
+     "translation": "daṇḍayamana = standing"
+    },
+    {
+     "translation": "jānu = knee"
+    },
+    {
+     "translation": "sīrsa = head"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "standing_head_to_knee_R.png"
+  },
+  {
+   "id": "standing_head_to_knee_preparation",
+   "english": "Standing Head to Knee (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "standing_head_to_knee_preparation_R.png"
+  },
+  {
+   "id": "headstand_supported",
+   "english": "Supported Headstand",
+   "sanskrit": "Sālamba Śīrṣāsana I",
+   "translations": [
+    {
+     "translation": "sā = with"
+    },
+    {
+     "translation": "alamba = support"
+    },
+    {
+     "translation": "śīrṣa = head"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "headstand_supported.png"
+  },
+  {
+   "id": "headstand_supported_preparation",
+   "english": "Supported Headstand (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "headstand_supported_preparation.png"
+  },
+  {
+   "id": "headstand_tripod",
+   "english": "Tripod Headstand",
+   "sanskrit": "Sālamba Śīrṣāsana II",
+   "translations": [
+    {
+     "translation": "sā = with"
+    },
+    {
+     "translation": "alamba = support"
+    },
+    {
+     "translation": "śīrṣa = head"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "headstand_tripod.png"
+  },
+  {
+   "id": "headstand_tripod_preparation",
+   "english": "Tripod Headstand (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "headstand_tripod_preparation.png"
+  },
+  {
+   "id": "headstand_tripod_knees_on_elbows",
+   "english": "Tripod Headstand with Knees on Elbows",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "headstand_tripod_knees_on_elbows.png"
+  },
+  {
+   "id": "headstand_tripod_spiral_legs",
+   "english": "Tripod Headstand - Spiral the Legs",
+   "sanskrit": "Parivṛttaikapāda Śīrṣāsana II",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "śīrṣa = head"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "headstand_tripod_spiral_legs.png"
+  },
+  {
+   "id": "hero",
+   "english": "Hero",
+   "sanskrit": "Vīrāsana",
+   "translations": [
+    {
+     "translation": "vīra = hero"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "hero.png"
+  },
+  {
+   "id": "hero_reclining",
+   "english": "Supine Hero",
+   "sanskrit": "Supta Vīrāsana",
+   "translations": [
+    {
+     "translation": "supta = supine"
+    },
+    {
+     "translation": "vīra = hero"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "hero_reclining.png"
+  },
+  {
+   "id": "hero_reclining_extended",
+   "english": "Extended Supine Hero",
+   "sanskrit": "Utthita Supta Vīrāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "supta = supine"
+    },
+    {
+     "translation": "vīra = hero"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "hero_reclining_extended.png"
+  },
+  {
+   "id": "pigeon_king",
+   "english": "One Legged King Pigeon",
+   "sanskrit": "Eka Pāda Rājakapotāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "rāja = king"
+    },
+    {
+     "translation": "kapota = pigeon"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "pigeon_king_R.png"
+  },
+  {
+   "id": "pigeon_half",
+   "english": "One Legged King Pigeon (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "pigeon_half_R.png"
+  },
+  {
+   "id": "pigeon_full",
+   "english": "One Legged King Pigeon - Mermaid",
+   "sanskrit": "Eka Pāda Rājakapotāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "rāja = king"
+    },
+    {
+     "translation": "kapota = pigeon"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Mermaid"
+    },
+    {
+     "label": "Category:",
+     "value": "Seated / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "pigeon_full_R.png"
+  },
+  {
+   "id": "standing_knee_to_chest",
+   "english": "Standing Knee to Chest",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "standing_knee_to_chest_R.png"
+  },
+  {
+   "id": "locust",
+   "english": "Locust",
+   "sanskrit": "Śalabhāsana",
+   "translations": [
+    {
+     "translation": "śalabha = locust"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "locust.png"
+  },
+  {
+   "id": "locust_half",
+   "english": "Half Locust",
+   "sanskrit": "Ardha Śalabhāsana",
+   "translations": [
+    {
+     "translation": "ardha = half"
+    },
+    {
+     "translation": "śalabha = locust"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "locust_half_R.png"
+  },
+  {
+   "id": "lord_of_the_dance",
+   "english": "Lord of the Dance",
+   "sanskrit": "Naṭarājāsana",
+   "translations": [
+    {
+     "translation": "naṭarājā = lord of the dance"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Dancer's"
+    },
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lord_of_the_dance_R.png"
+  },
+  {
+   "id": "lord_of_the_dance_full",
+   "english": "Full Lord of the Dance",
+   "sanskrit": "Naṭarājāsana",
+   "translations": [
+    {
+     "translation": "naṭarājā = lord of the dance"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Dancer's"
+    },
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "lord_of_the_dance_full_R.png"
+  },
+  {
+   "id": "lotus_full",
+   "english": "Lotus",
+   "sanskrit": "Padmāsana",
+   "translations": [
+    {
+     "translation": "padma = lotus"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lotus_full.png"
+  },
+  {
+   "id": "lotus_half",
+   "english": "Half Lotus",
+   "sanskrit": "Ardha Padmāsana",
+   "translations": [
+    {
+     "translation": "ardha = half"
+    },
+    {
+     "translation": "padma = lotus"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lotus_half.png"
+  },
+  {
+   "id": "lunge",
+   "english": "Lunge",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_R.png"
+  },
+  {
+   "id": "lunge_arm_forward",
+   "english": "Lunge with Arm Extended Forward",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_arm_forward_R.png"
+  },
+  {
+   "id": "lunge_arm_up",
+   "english": "Lunge with Arm Extended Up",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_arm_up_R.png"
+  },
+  {
+   "id": "lunge_hands_on_mat",
+   "english": "Lunge with Hands on the Inside of the Leg",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_hands_on_mat_R.png"
+  },
+  {
+   "id": "lunge_kneeling",
+   "english": "Lunge on the Knee",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_kneeling_R.png"
+  },
+  {
+   "id": "lunge_kneeling_arm_forward",
+   "english": "Lunge on the Knee with Arm Extended Forward",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_kneeling_arm_forward_R.png"
+  },
+  {
+   "id": "lunge_kneeling_arm_up",
+   "english": "Lunge on the Knee with Arm Extended Up",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_kneeling_arm_up_R.png"
+  },
+  {
+   "id": "lunge_kneeling_hands_on_mat",
+   "english": "Lunge on the Knee with Hands on the Inside of the Leg",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "lunge_kneeling_hands_on_mat_R.png"
+  },
+  {
+   "id": "marichi_I",
+   "english": "Marichi's I",
+   "sanskrit": "Marīchyāsana I",
+   "translations": [
+    {
+     "translation": "marīchi = name of a sage"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "marichi_I_L.png"
+  },
+  {
+   "id": "marichi_III",
+   "english": "Marichi's III",
+   "sanskrit": "Marīchyāsana III",
+   "translations": [
+    {
+     "translation": "marīchi = name of a sage"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "marichi_III_L.png"
+  },
+  {
+   "id": "mountain",
+   "english": "Mountain",
+   "sanskrit": "Tāḍāsana",
+   "translations": [
+    {
+     "translation": "tāḍa = mountain"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "mountain.png"
+  },
+  {
+   "id": "mountain_arms_up",
+   "english": "Mountain with Arms Up",
+   "sanskrit": "Tāḍāsana",
+   "translations": [
+    {
+     "translation": "tāḍa = mountain"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "mountain_arms_up.png"
+  },
+  {
+   "id": "feathered_peacock",
+   "english": "Feathered Peacock",
+   "sanskrit": "Pīñcha Mayūrāsana",
+   "translations": [
+    {
+     "translation": "pīñcha = feather"
+    },
+    {
+     "translation": "mayūra = peacock"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Forearm Stand"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "feathered_peacock.png"
+  },
+  {
+   "id": "pigeon",
+   "english": "Pigeon",
+   "sanskrit": "Kapotāsana",
+   "translations": [
+    {
+     "translation": "kapota = pigeon"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "pigeon.png"
+  },
+  {
+   "id": "pigeon_flying",
+   "english": "Flying Pigeon",
+   "sanskrit": "Eka Pāda Gālavāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "gālava = name of a sage"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "pigeon_flying_R.png"
+  },
+  {
+   "id": "supine_pigeon",
+   "english": "Supine Pigeon",
+   "sanskrit": "Supta Kapotāsana",
+   "translations": [
+    {
+     "translation": "supta = supine"
+    },
+    {
+     "translation": "kapota = pigeon"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Eye of the Needle / Dead Pigeon"
+    },
+    {
+     "label": "Category:",
+     "value": "Supine / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "supine_pigeon_R.png"
+  },
+  {
+   "id": "plank",
+   "english": "Plank",
+   "sanskrit": "Phalakāsana",
+   "translations": [
+    {
+     "translation": "phalaka = plank"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "plank.png"
+  },
+  {
+   "id": "plank_leg_up",
+   "english": "One Legged Plank",
+   "sanskrit": "Eka Pāda Phalakāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "phalaka = plank"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "plank_leg_up_R.png"
+  },
+  {
+   "id": "plank_side",
+   "english": "Side Plank",
+   "sanskrit": "Vasiṣṭhāsana",
+   "translations": [
+    {
+     "translation": "vasiṣṭha = name of a sage"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "plank_side_L.png"
+  },
+  {
+   "id": "plank_side_extended",
+   "english": "Extended Side Plank",
+   "sanskrit": "Utthita Vasiṣṭhāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "vasiṣṭha = name of a sage"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "plank_side_extended_L.png"
+  },
+  {
+   "id": "plank_upward",
+   "english": "Upward Plank",
+   "sanskrit": "Pūrvottānāsana",
+   "translations": [
+    {
+     "translation": "pūrva = front"
+    },
+    {
+     "translation": "uttānā = stretch"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "plank_upward.png"
+  },
+  {
+   "id": "plank_leg_up_kneeling",
+   "english": "One Legged Plank on the Knee",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "plank_leg_up_kneeling_R.png"
+  },
+  {
+   "id": "plank_kneeling_side",
+   "english": "Side Plank on the Knee",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "plank_kneeling_side_L.png"
+  },
+  {
+   "id": "plank_kneeling",
+   "english": "Plank on the Knees",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "plank_kneeling.png"
+  },
+  {
+   "id": "plow",
+   "english": "Plow",
+   "sanskrit": "Halāsana",
+   "translations": [
+    {
+     "translation": "hala = plow"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "plow.png"
+  },
+  {
+   "id": "pyramid",
+   "english": "Pyramid",
+   "sanskrit": "Pārśvottānāsana",
+   "translations": [
+    {
+     "translation": "pārśva = side"
+    },
+    {
+     "translation": "uttāna = stretch out"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "pyramid_R.png"
+  },
+  {
+   "id": "lunge_hands_on_mat_back",
+   "english": "Pyramid with Hands on the Inside of the Leg",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "lunge_hands_on_mat_back_R.png"
+  },
+  {
+   "id": "pyramid_kneeling",
+   "english": "Pyramid on the Knee",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "pyramid_kneeling_R.png"
+  },
+  {
+   "id": "rabbit",
+   "english": "Rabbit",
+   "sanskrit": "Sasangāsana",
+   "translations": [
+    {
+     "translation": "sasanga = rabbit"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "rabbit.png"
+  },
+  {
+   "id": "corpse_double_leg_raise",
+   "english": "Rejuvenation",
+   "sanskrit": "Supta Daṇḍāsana",
+   "translations": [
+    {
+     "translation": "supta = supine"
+    },
+    {
+     "translation": "daṇḍa = staff"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Legs-Up / Supine Staff"
+    },
+    {
+     "label": "Category:",
+     "value": "Supine / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "corpse_double_leg_raise.png"
+  },
+  {
+   "id": "scale",
+   "english": "Scale",
+   "sanskrit": "Tolāsana",
+   "translations": [
+    {
+     "translation": "tola = scale"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "scale.png"
+  },
+  {
+   "id": "scorpion",
+   "english": "Scorpion",
+   "sanskrit": "Vṛśchikāsana I",
+   "translations": [
+    {
+     "translation": "vṛśchika = scorpion"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "scorpion.png"
+  },
+  {
+   "id": "handstand_scorpion",
+   "english": "Scorpion Handstand",
+   "sanskrit": "Vṛśchikāsana II",
+   "translations": [
+    {
+     "translation": "vṛśchika = scorpion"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "handstand_scorpion.png"
+  },
+  {
+   "id": "shoulderstand_supported",
+   "english": "Supported Shoulder Stand",
+   "sanskrit": "Sālamba Sarvāṅgāsana",
+   "translations": [
+    {
+     "translation": "sa = with"
+    },
+    {
+     "translation": "ālamba = support"
+    },
+    {
+     "translation": "sarvāṅga = all limb"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "shoulderstand_supported.png"
+  },
+  {
+   "id": "shoulderstand_unsupported",
+   "english": "Unsupported Shoulder Stand",
+   "sanskrit": "Nirālamba Sarvāṅgāsana",
+   "translations": [
+    {
+     "translation": "nir = without"
+    },
+    {
+     "translation": "ālamba = support"
+    },
+    {
+     "translation": "sarvāṅga = all limb"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm Balance and Inversion / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "shoulderstand_unsupported.png"
+  },
+  {
+   "id": "lunge_bind",
+   "english": "Bound Side Angle",
+   "sanskrit": "Baddha Pārśvakoṇāsana",
+   "translations": [
+    {
+     "translation": "baddha = bound"
+    },
+    {
+     "translation": "pārśva = side"
+    },
+    {
+     "translation": "koṇa = angle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "lunge_bind_R.png"
+  },
+  {
+   "id": "warrior_II_forward_arm_forward",
+   "english": "Extended Side Angle",
+   "sanskrit": "Utthita Pārśvakoṇāsana",
+   "translations": [
+    {
+     "translation": "utthita = extended"
+    },
+    {
+     "translation": "pārśva = side"
+    },
+    {
+     "translation": "koṇa = angle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Lateral Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "warrior_II_forward_arm_forward_R.png"
+  },
+  {
+   "id": "warrior_twist_extended",
+   "english": "Revolved Side Angle",
+   "sanskrit": "Parivṛtta Pārśvakoṇāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "pārśva = side"
+    },
+    {
+     "translation": "koṇa = angle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "warrior_twist_extended_R.png"
+  },
+  {
+   "id": "warrior_twist_extended_bound",
+   "english": "Bound Revolved Side Angle",
+   "sanskrit": "Parivṛtta Baddha Pārśvakoṇāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "baddha = bound"
+    },
+    {
+     "translation": "pārśva = side"
+    },
+    {
+     "translation": "koṇa = angle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "warrior_twist_extended_bound_R.png"
+  },
+  {
+   "id": "pigeon_forward_bend",
+   "english": "Sleeping Swan",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "pigeon_forward_bend_R.png"
+  },
+  {
+   "id": "sphinx",
+   "english": "Sphinx",
+   "sanskrit": "Sālamba Bhujaṅgāsana",
+   "translations": [
+    {
+     "translation": "sālamba = supported"
+    },
+    {
+     "translation": "bhujaṅga = serpent"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Prone / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "sphinx.png"
+  },
+  {
+   "id": "supine_spinal_twist",
+   "english": "Supine Spinal Twist",
+   "sanskrit": "Supta Jaṭhara Parivartānāsana",
+   "translations": [
+    {
+     "translation": "supta = supine"
+    },
+    {
+     "translation": "jaṭhara = stomach"
+    },
+    {
+     "translation": "parivartāna = revolving"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "supine_spinal_twist_R.png"
+  },
+  {
+   "id": "splits_front",
+   "english": "Front Splits",
+   "sanskrit": "Hanumānāsana",
+   "translations": [
+    {
+     "translation": "hanumān = monkey deity"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Monkey"
+    },
+    {
+     "label": "Category:",
+     "value": "Seated / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "splits_front_R.png"
+  },
+  {
+   "id": "splits_wide",
+   "english": "Side Splits",
+   "sanskrit": "Upaviṣṭha Koṇāsana",
+   "translations": [
+    {
+     "translation": "upaviṣṭha = seated"
+    },
+    {
+     "translation": "koṇa = angle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Straddle Splits / Middle Splits"
+    },
+    {
+     "label": "Category:",
+     "value": "Seated / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "splits_wide.png"
+  },
+  {
+   "id": "splits_standing",
+   "english": "Standing Splits",
+   "sanskrit": "Ūrdhva Prasārita Eka Pādāsana",
+   "translations": [
+    {
+     "translation": "ūrdhva = upward"
+    },
+    {
+     "translation": "prasārita = spread"
+    },
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "splits_standing_R.png"
+  },
+  {
+   "id": "seated_on_heels_prayer",
+   "english": "Squatting Toe Balance",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "seated_on_heels_prayer.png"
+  },
+  {
+   "id": "seated_on_heels_prayer_opened_knees",
+   "english": "Squatting Toe Balance with Opened Knees",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "seated_on_heels_prayer_opened_knees.png"
+  },
+  {
+   "id": "seated_on_heels_prayer_twist",
+   "english": "Revolved Squatting Toe Balance",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "seated_on_heels_prayer_twist_L.png"
+  },
+  {
+   "id": "seated_on_heels_twist_bound",
+   "english": "Bound Revolved Squatting Toe Balance",
+   "sanskrit": "Pāśasana",
+   "translations": [
+    {
+     "translation": "pāśa = noose"
+    },
+    {
+     "translation": "asana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "seated_on_heels_twist_bound_L.png"
+  },
+  {
+   "id": "staff",
+   "english": "Staff",
+   "sanskrit": "Daṇḍāsana",
+   "translations": [
+    {
+     "translation": "daṇḍa = staff"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Seated / Neutral"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "staff.png"
+  },
+  {
+   "id": "staff_inverted",
+   "english": "Inverted Staff",
+   "sanskrit": "Dvi Pāda Viparīta Daṇḍāsana",
+   "translations": [
+    {
+     "translation": "dvi = two"
+    },
+    {
+     "translation": "pāda = foot of leg"
+    },
+    {
+     "translation": "viparīta = inverted"
+    },
+    {
+     "translation": "danda = staff"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "staff_inverted.png"
+  },
+  {
+   "id": "four_limbed_staff",
+   "english": "Four Limbed Staff",
+   "sanskrit": "Chaturaṅga Daṇḍāsana",
+   "translations": [
+    {
+     "translation": "chatur = four"
+    },
+    {
+     "translation": "aṅga = limb"
+    },
+    {
+     "translation": "daṇḍa = staff"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "four_limbed_staff.png"
+  },
+  {
+   "id": "table",
+   "english": "Table",
+   "sanskrit": "Pūrvottānāsana",
+   "translations": [
+    {
+     "translation": "pūrva = front"
+    },
+    {
+     "translation": "uttānā = stretch"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Table Top"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "table.png"
+  },
+  {
+   "id": "tortoise_bind",
+   "english": "Tortoise",
+   "sanskrit": "Kūrmāsana",
+   "translations": [
+    {
+     "translation": "kūrma = tortoise"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "tortoise_bind.png"
+  },
+  {
+   "id": "tortoise",
+   "english": "Tortoise (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "tortoise.png"
+  },
+  {
+   "id": "tree",
+   "english": "Tree",
+   "sanskrit": "Vṛkṣāsana",
+   "translations": [
+    {
+     "translation": "vṛkṣa = tree"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "tree_L.png"
+  },
+  {
+   "id": "triangle_forward",
+   "english": "Triangle",
+   "sanskrit": "Trikoṇāsana",
+   "translations": [
+    {
+     "translation": "trikoṇa = triangle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Lateral Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "triangle_forward_R.png"
+  },
+  {
+   "id": "triangle",
+   "english": "Triangle (Preparation)",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "triangle_R.png"
+  },
+  {
+   "id": "triangle_revolved",
+   "english": "Revolved Triangle",
+   "sanskrit": "Parivṛtta Trikoṇāsana",
+   "translations": [
+    {
+     "translation": "parivṛtta = revolved"
+    },
+    {
+     "translation": "trikoṇa = triangle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "triangle_revolved_R.png"
+  },
+  {
+   "id": "upward_dog",
+   "english": "Upward-Facing Dog",
+   "sanskrit": "Ūrdhva Mukha Śvānāsana",
+   "translations": [
+    {
+     "translation": "ūrdhva = upward"
+    },
+    {
+     "translation": "mukha = facing"
+    },
+    {
+     "translation": "śvāna = dog"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "upward_dog.png"
+  },
+  {
+   "id": "warrior_II_reverse",
+   "english": "Reverse Warrior",
+   "sanskrit": "Pārśva Vīrabhadrāsana",
+   "translations": [
+    {
+     "translation": "pārśva = side"
+    },
+    {
+     "translation": "vīrabhadra = warrior"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Lateral Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "warrior_II_reverse_R.png"
+  },
+  {
+   "id": "warrior_twist",
+   "english": "Warrior Twist",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Twist"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "warrior_twist_R.png"
+  },
+  {
+   "id": "warrior_I",
+   "english": "Warrior I",
+   "sanskrit": "Vīrabhadrāsana I",
+   "translations": [
+    {
+     "translation": "vīrabhadra = warrior"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "warrior_I_R.png"
+  },
+  {
+   "id": "warrior_I_hands_on_hips",
+   "english": "Warrior I with Hands on Hips",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "warrior_I_hands_on_hips_R.png"
+  },
+  {
+   "id": "warrior_prayer",
+   "english": "Warrior I with Prayer Hands",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "warrior_prayer_R.png"
+  },
+  {
+   "id": "warrior_I_forward",
+   "english": "Warrior I Forward Bend",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "warrior_I_forward_R.png"
+  },
+  {
+   "id": "warrior_I_hands_on_hips_forward",
+   "english": "Warrior I Forward Bend with Hands on Hips",
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "warrior_I_hands_on_hips_forward_R.png"
+  },
+  {
+   "id": "warrior_II",
+   "english": "Warrior II",
+   "sanskrit": "Vīrabhadrāsana II",
+   "translations": [
+    {
+     "translation": "vīrabhadra = warrior"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "warrior_II_R.png"
+  },
+  {
+   "id": "warrior_II_forward",
+   "english": "Warrior II Forward Bend",
+   "sanskrit": "Pārśvakoṇāsana",
+   "translations": [
+    {
+     "translation": "pārśva = side"
+    },
+    {
+     "translation": "koṇa = angle"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Standing / Lateral Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "warrior_II_forward_R.png"
+  },
+  {
+   "id": "warrior_III",
+   "english": "Warrior III",
+   "sanskrit": "Vīrabhadrāsana III",
+   "translations": [
+    {
+     "translation": "vīrabhadra = warrior"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Balancing Stick"
+    },
+    {
+     "label": "Category:",
+     "value": "Standing / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "warrior_III_R.png"
+  },
+  {
+   "id": "wheel",
+   "english": "Wheel",
+   "sanskrit": "Ūrdhva Dhanurāsana",
+   "translations": [
+    {
+     "translation": "ūrdhva = upward"
+    },
+    {
+     "translation": "dhanu = bow"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Upward Bow"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "wheel.png"
+  },
+  {
+   "id": "wheel_leg_up",
+   "english": "One Legged Wheel",
+   "sanskrit": "Eka Pāda Ūrdhva Dhanurāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "ūrdhva = upward"
+    },
+    {
+     "translation": "dhanu = bow"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "One Legged Upward Bow"
+    },
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Balancing"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Expert"
+    }
+   ],
+   "img_src": "wheel_leg_up_R.png"
+  },
+  {
+   "id": "wild_thing",
+   "english": "Wild Thing",
+   "sanskrit": "Camatkārāsana",
+   "translations": [
+    {
+     "translation": "camatkāra = struck with wonder"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Arm and Leg Support / Backbend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Intermediate"
+    }
+   ],
+   "img_src": "wild_thing_L.png"
+  },
+  {
+   "id": "turtle",
+   "english": "Wind Removing",
+   "sanskrit": "Pavanamuktāsana",
+   "translations": [
+    {
+     "translation": "pavana = wind"
+    },
+    {
+     "translation": "mukta = releasing"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Alt. Name:",
+     "value": "Supine Knees to Chest"
+    },
+    {
+     "label": "Category:",
+     "value": "Supine / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "turtle.png"
+  },
+  {
+   "id": "wind_removing",
+   "english": "One Legged Wind Removing",
+   "sanskrit": "Eka Pāda Pavanamuktāsana",
+   "translations": [
+    {
+     "translation": "eka = one"
+    },
+    {
+     "translation": "pāda = foot or leg"
+    },
+    {
+     "translation": "pavana = wind"
+    },
+    {
+     "translation": "mukta = releasing"
+    },
+    {
+     "translation": "āsana = posture"
+    }
+   ],
+   "details": [
+    {
+     "label": "Category:",
+     "value": "Supine / Forward Bend"
+    },
+    {
+     "label": "Difficulty:",
+     "value": "Beginner"
+    }
+   ],
+   "img_src": "wind_removing_R.png"
+  }
+ ]
+}

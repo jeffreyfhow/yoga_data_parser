@@ -1,0 +1,54 @@
+[
+  {
+    "id": "boat_full",
+    "grade": "A"
+  },
+  {
+    "id": "boat_half",
+    "grade": "A"
+  },
+  {
+    "id": "bound_angle",
+    "grade": "A"
+  },
+  {
+    "id": "child",
+    "grade": "A"
+  },
+  {
+    "id": "crow",
+    "grade": "A"
+  },
+  {
+    "id": "downward_dog",
+    "grade": "A"
+  },
+  {
+    "id": "half_moon",
+    "grade": "A"
+  },
+  {
+    "id": "hero",
+    "grade": "A"
+  },
+  {
+    "id": "pyramid",
+    "grade": "A"
+  },
+  {
+    "id": "staff",
+    "grade": "A"
+  },
+  {
+    "id": "upward_dog",
+    "grade": "A"
+  },
+  {
+    "id": "warrior_I",
+    "grade": "A"
+  },
+  {
+    "id": "sphinx",
+    "grade": "D"
+  }
+]

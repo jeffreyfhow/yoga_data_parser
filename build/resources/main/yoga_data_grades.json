@@ -1,0 +1,470 @@
+[
+  {
+    "id": "chair_twist_bind_up",
+    "grade": "B"
+  },
+  {
+    "id": "bird_of_paradise_revolved",
+    "grade": "C"
+  },
+  {
+    "id": "boat_full",
+    "grade": "A"
+  },
+  {
+    "id": "boat_half",
+    "grade": "A"
+  },
+  {
+    "id": "bound_angle",
+    "grade": "A"
+  },
+  {
+    "id": "supine_bound_angle",
+    "grade": "A"
+  },
+  {
+    "id": "bow",
+    "grade": "A"
+  },
+  {
+    "id": "box_neutral",
+    "grade": "B"
+  },
+  {
+    "id": "bridge",
+    "grade": "A"
+  },
+  {
+    "id": "bridge_leg_up",
+    "grade": "C"
+  },
+  {
+    "id": "camel",
+    "grade": "A"
+  },
+  {
+    "id": "cat",
+    "grade": "A"
+  },
+  {
+    "id": "chair",
+    "grade": "A"
+  },
+  {
+    "id": "chair_twist",
+    "grade": "B"
+  },
+  {
+    "id": "chair_twist_extended",
+    "grade": "C"
+  },
+  {
+    "id": "child",
+    "grade": "A"
+  },
+  {
+    "id": "cobra",
+    "grade": "A"
+  },
+  {
+    "id": "corpse",
+    "grade": "A"
+  },
+  {
+    "id": "dog",
+    "grade": "A"
+  },
+  {
+    "id": "knee_pile_bind",
+    "grade": "A"
+  },
+  {
+    "id": "lunge_crescent",
+    "grade": "B"
+  },
+  {
+    "id": "lunge_twist",
+    "grade": "C"
+  },
+  {
+    "id": "warrior_I_kneeling",
+    "grade": "B"
+  },
+  {
+    "id": "lunge_kneeling_twist",
+    "grade": "B"
+  },
+  {
+    "id": "crescent_moon",
+    "grade": "C"
+  },
+  {
+    "id": "crow",
+    "grade": "A"
+  },
+  {
+    "id": "crow_flying",
+    "grade": "C"
+  },
+  {
+    "id": "crow_side",
+    "grade": "A"
+  },
+  {
+    "id": "deaf_man",
+    "grade": "C"
+  },
+  {
+    "id": "dolphin",
+    "grade": "A"
+  },
+  {
+    "id": "plank_dolphin",
+    "grade": "C"
+  },
+  {
+    "id": "downward_dog",
+    "grade": "A"
+  },
+  {
+    "id": "downward_dog_leg_up",
+    "grade": "B"
+  },
+  {
+    "id": "eagle",
+    "grade": "A"
+  },
+  {
+    "id": "easy",
+    "grade": "A"
+  },
+  {
+    "id": "eight_angle",
+    "grade": "A"
+  },
+  {
+    "id": "puppy_extended",
+    "grade": "B"
+  },
+  {
+    "id": "fire_log",
+    "grade": "A"
+  },
+  {
+    "id": "firefly",
+    "grade": "A"
+  },
+  {
+    "id": "fish",
+    "grade": "A"
+  },
+  {
+    "id": "lunge_hands_on_mat_flying",
+    "grade": "A"
+  },
+  {
+    "id": "flying_man_revolved",
+    "grade": "A"
+  },
+  {
+    "id": "seated_forward_bend",
+    "grade": "A"
+  },
+  {
+    "id": "forward_bend",
+    "grade": "A"
+  },
+  {
+    "id": "frog",
+    "grade": "A"
+  },
+  {
+    "id": "garland",
+    "grade": "A"
+  },
+  {
+    "id": "gorilla",
+    "grade": "A"
+  },
+  {
+    "id": "half_moon",
+    "grade": "A"
+  },
+  {
+    "id": "half_moon_bound",
+    "grade": "C"
+  },
+  {
+    "id": "half_moon_revolved",
+    "grade": "A"
+  },
+  {
+    "id": "forward_bend_half_way",
+    "grade": "A"
+  },
+  {
+    "id": "standing_hand_to_toe",
+    "grade": "A"
+  },
+  {
+    "id": "standing_hand_to_toe_extended",
+    "grade": "A"
+  },
+  {
+    "id": "supine_hand_to_toe",
+    "grade": "B"
+  },
+  {
+    "id": "supine_hand_to_toe_extended",
+    "grade": "B"
+  },
+  {
+    "id": "handstand",
+    "grade": "A"
+  },
+  {
+    "id": "blissful_baby",
+    "grade": "A"
+  },
+  {
+    "id": "standing_head_to_knee",
+    "grade": "C"
+  },
+  {
+    "id": "headstand_supported",
+    "grade": "A"
+  },
+  {
+    "id": "headstand_tripod",
+    "grade": "A"
+  },
+  {
+    "id": "hero",
+    "grade": "A"
+  },
+  {
+    "id": "hero_reclining",
+    "grade": "B"
+  },
+  {
+    "id": "pigeon_king",
+    "grade": "A"
+  },
+  {
+    "id": "pigeon_half",
+    "grade": "A"
+  },
+  {
+    "id": "pigeon_full",
+    "grade": "A"
+  },
+  {
+    "id": "locust",
+    "grade": "A"
+  },
+  {
+    "id": "locust_half",
+    "grade": "B"
+  },
+  {
+    "id": "lord_of_the_dance",
+    "grade": "A"
+  },
+  {
+    "id": "lord_of_the_dance_full",
+    "grade": "B"
+  },
+  {
+    "id": "lotus_full",
+    "grade": "A"
+  },
+  {
+    "id": "lunge",
+    "grade": "A"
+  },
+  {
+    "id": "lunge_arm_up",
+    "grade": "A"
+  },
+  {
+    "id": "lunge_kneeling",
+    "grade": "A"
+  },
+  {
+    "id": "marichi_I",
+    "grade": "A"
+  },
+  {
+    "id": "marichi_III",
+    "grade": "A"
+  },
+  {
+    "id": "mountain",
+    "grade": "A"
+  },
+  {
+    "id": "feathered_peacock",
+    "grade": "A"
+  },
+  {
+    "id": "pigeon",
+    "grade": "C"
+  },
+  {
+    "id": "pigeon_flying",
+    "grade": "A"
+  },
+  {
+    "id": "supine_pigeon",
+    "grade": "A"
+  },
+  {
+    "id": "plank",
+    "grade": "A"
+  },
+  {
+    "id": "plank_side",
+    "grade": "A"
+  },
+  {
+    "id": "plank_side_extended",
+    "grade": "C"
+  },
+  {
+    "id": "plank_upward",
+    "grade": "A"
+  },
+  {
+    "id": "plow",
+    "grade": "A"
+  },
+  {
+    "id": "pyramid",
+    "grade": "A"
+  },
+  {
+    "id": "pyramid_kneeling",
+    "grade": "B"
+  },
+  {
+    "id": "corpse_double_leg_raise",
+    "grade": "C"
+  },
+  {
+    "id": "scale",
+    "grade": "B"
+  },
+  {
+    "id": "scorpion",
+    "grade": "A"
+  },
+  {
+    "id": "handstand_scorpion",
+    "grade": "C"
+  },
+  {
+    "id": "shoulderstand_supported",
+    "grade": "A"
+  },
+  {
+    "id": "shoulderstand_unsupported",
+    "grade": "A"
+  },
+  {
+    "id": "warrior_II_forward_arm_forward",
+    "grade": "A"
+  },
+  {
+    "id": "warrior_twist_extended",
+    "grade": "A"
+  },
+  {
+    "id": "sphinx",
+    "grade": "A"
+  },
+  {
+    "id": "supine_spinal_twist",
+    "grade": "A"
+  },
+  {
+    "id": "splits_front",
+    "grade": "A"
+  },
+  {
+    "id": "splits_wide",
+    "grade": "A"
+  },
+  {
+    "id": "splits_standing",
+    "grade": "A"
+  },
+  {
+    "id": "seated_on_heels_prayer",
+    "grade": "B"
+  },
+  {
+    "id": "staff",
+    "grade": "A"
+  },
+  {
+    "id": "staff_inverted",
+    "grade": "C"
+  },
+  {
+    "id": "four_limbed_staff",
+    "grade": "A"
+  },
+  {
+    "id": "table",
+    "grade": "A"
+  },
+  {
+    "id": "tree",
+    "grade": "A"
+  },
+  {
+    "id": "triangle_forward",
+    "grade": "A"
+  },
+  {
+    "id": "triangle_revolved",
+    "grade": "A"
+  },
+  {
+    "id": "upward_dog",
+    "grade": "A"
+  },
+  {
+    "id": "warrior_II_reverse",
+    "grade": "A"
+  },
+  {
+    "id": "warrior_I",
+    "grade": "A"
+  },
+  {
+    "id": "warrior_II",
+    "grade": "A"
+  },
+  {
+    "id": "warrior_III",
+    "grade": "A"
+  },
+  {
+    "id": "wheel",
+    "grade": "A"
+  },
+  {
+    "id": "wheel_leg_up",
+    "grade": "C"
+  },
+  {
+    "id": "wild_thing",
+    "grade": "A"
+  },
+  {
+    "id": "turtle",
+    "grade": "A"
+  }
+]

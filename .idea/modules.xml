@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yoga_data_parser.iml" filepath="$PROJECT_DIR$/yoga_data_parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yoga_data_parser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/yoga_data_parser_main.iml" group="yoga_data_parser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yoga_data_parser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/yoga_data_parser_test.iml" group="yoga_data_parser" />
+    </modules>
+  </component>
+</project>
