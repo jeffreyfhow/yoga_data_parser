@@ -18,6 +18,9 @@ fun main(args: Array<String>) {
     val poses = getPosesFromFile("/yoga_data_test.json")
     val gradeMap = createGradeMapFromFile("/yoga_data_grades_test.json")
     val abcPoses: MutableList<Pose> = filterABCGradedPoses(poses, gradeMap)
+
+    val outDir = File("output")
+    if (!outDir.exists()) { outDir.mkdir() }
     File("output/yoga_data_formatted_test.json").printWriter().use {
         it.print(JsonPoseAdapter.posesToString(abcPoses))
     }
